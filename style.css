@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>SadKonewka | Building Stories</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<nav>
+<div class="logo">SADKONEWKA</div>
+<div>
+<a href="#projects">Projects</a>
+<a href="#gallery">Gallery</a>
+<a href="#blog">Building Stories</a>
+<a href="#about">About</a>
+<a href="https://instagram.com/sadkonewka" target="_blank">Instagram</a>
+</div>
+</nav>
+
+<header class="hero">
+<div class="overlay"></div>
+<div class="hero-content">
+<p>by Mikołaj Gumplowicz</p>
+<h1>Building stories<br>one brick at a time.</h1>
+</div>
+</header>
+
+<section id="projects">
+<h2>Featured Projects</h2>
+<div class="cards">
+<div class="card">Triton Squad</div>
+<div class="card">Fantasy Characters</div>
+<div class="card">Jungle Outpost</div>
+<div class="card">Clone Ambush</div>
+</div>
+</section>
+
+<section id="gallery">
+<h2>Gallery</h2>
+<div class="gallery">
+<img src="images/img1.jpg"><img src="images/img2.jpg"><img src="images/img3.jpg">
+<img src="images/img4.jpeg"><img src="images/img5.jpeg"><img src="images/img6.jpeg">
+<img src="images/img7.jpeg"><img src="images/img8.jpeg">
+</div>
+</section>
+
+<section id="blog">
+<h2>Building Stories</h2>
+<div class="posts">
+<div>PL: Budowa Triton Squad</div>
+<div>EN: Building Triton Squad</div>
+<div>PL: Jak fotografuję LEGO</div>
+<div>EN: How I Photograph LEGO</div>
+</div>
+</section>
+
+<section id="about">
+<h2>About</h2>
+<img class="profile" src="images/img9.jpeg">
+<p><strong>PL:</strong> Nazywam się Mikołaj Gumplowicz. Pod pseudonimem SadKonewka tworzę autorskie projekty LEGO.</p>
+<p><strong>EN:</strong> My name is Mikołaj Gumplowicz. Under the SadKonewka name, I create original LEGO projects and photography.</p>
+</section>
+</body></html>
